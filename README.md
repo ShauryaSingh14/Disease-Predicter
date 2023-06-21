@@ -1,3 +1,3 @@
 # Disease-Predicter
 
-hi friend
+MediBuddy
