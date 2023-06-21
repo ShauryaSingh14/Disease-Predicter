@@ -1,0 +1,3 @@
+# Disease-Predicter
+
+hi friend
